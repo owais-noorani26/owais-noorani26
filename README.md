@@ -41,14 +41,17 @@
 
 ### 📊 Engineering Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owais-noorani26&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owais-noorani26&theme=onedark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owais-noorani26&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="60%" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=owais-noorani26&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)](https://github.com/owais-noorani26)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owais-noorani26&theme=onedark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF)](https://github.com/owais-noorani26)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owais-noorani26&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/owais-noorani26)
+
+</div>
+
+<hr>
+<p align="center"><i>Constantly optimizing technical architectures and e-commerce workflows. Always open to discussing strategic growth and scalable software solutions.</i></p>
 
 <hr>
 <p align="center"><i>Constantly optimizing technical architectures and e-commerce workflows. Always open to discussing strategic growth and scalable software solutions.</i></p>
